@@ -57,3 +57,10 @@ html{
         border-radius: 10px;
     }
  
+    p {
+        color: rgb(173, 146, 114);
+        font-size: 1.5em;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        padding-top: .5em;
+    }
